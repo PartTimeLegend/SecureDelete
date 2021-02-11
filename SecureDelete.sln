@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureDelete", "SecureDelete\SecureDelete.csproj", "{BAC2A1D8-C3B1-4EE3-B0D2-77165029FF3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAC2A1D8-C3B1-4EE3-B0D2-77165029FF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC2A1D8-C3B1-4EE3-B0D2-77165029FF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC2A1D8-C3B1-4EE3-B0D2-77165029FF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC2A1D8-C3B1-4EE3-B0D2-77165029FF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92E4C3F3-DF67-40AE-B9BA-EAFBE75BC588}
+	EndGlobalSection
+EndGlobal
