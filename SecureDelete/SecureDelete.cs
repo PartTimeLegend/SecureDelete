@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Security.Cryptography;
+[assembly: CLSCompliant(true)]
 [assembly: System.Runtime.InteropServices.ComVisible(true)]
 namespace SecureDelete
 {
