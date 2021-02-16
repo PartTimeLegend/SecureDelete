@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Security.Cryptography;
-
+[assembly: System.Runtime.InteropServices.ComVisible(true)]
 namespace SecureDelete
 {
     public class SecureDelete
