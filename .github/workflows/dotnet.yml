@@ -29,7 +29,7 @@ jobs:
     - name: Pack
       run: dotnet pack -v normal -c Release --no-restore --include-symbols --include-source -p:PackageVersion=0.1.$GITHUB_RUN_ID
     - name: Upload Artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: nupkg
         path: ./SecureDelete/bin/Release/*.nupkg  
